@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "cassowary"
-version = "1.0-2"
+version = "1.1-1"
 -- LuaDist source
 source = {
-  tag = "1.0-2",
+  tag = "1.1-1",
   url = "git://github.com/LuaDist-testing/cassowary.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/simoncozens/cassowary.lua",
---    tag = "v1.0",
+--    tag = "v1.1",
 -- }
 description = {
    summary = "The cassowary constraint solver.",
