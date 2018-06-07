@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "cassowary"
-version = "1.0-1"
+version = "1.0-2"
 -- LuaDist source
 source = {
-  tag = "1.0-1",
+  tag = "1.0-2",
   url = "git://github.com/LuaDist-testing/cassowary.git"
 }
 -- Original source
@@ -23,7 +23,7 @@ description = {
    license = "Apache 2"
 }
 dependencies = {
-   "lua ~> 5.1";
+   "lua";
    "stdlib"
 }
 build = {
